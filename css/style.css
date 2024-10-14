@@ -198,6 +198,10 @@ body {
     margin-left: 25px;
 }
 
+.profession-education{
+    font-size: 18px;         /* размер строк */
+    color:#595959
+}
 @media print {
     body {
         margin: 0; /* Удаляем отступы у body */

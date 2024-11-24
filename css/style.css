@@ -137,7 +137,7 @@ body {
    /* width: 450px;      ширина блока описания о себе, мі не задаем, чтобы на разных устройствах контент открывался всем текстом*/
 }
 .info-container{
-    margin-bottom: 65px;
+    margin-bottom: 55px;    /* расстояние about до work experience*/
     
 }
 .about-me-title{

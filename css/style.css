@@ -124,7 +124,7 @@ body {
     margin-bottom: 23px;
 }
 .name{
-    font-size: 42px;
+    font-size: 40px;
     font-weight: 700;
     line-height: 89px;
 }
@@ -132,7 +132,8 @@ body {
 .description{
     font-size: 18px;
     font-weight: 400;
-    line-height: 24px;
+    text-indent: 20px;   /* Отступ для первой строки каждого абзаца */
+    line-height: 24px;   /* Увеличенное расстояние между строками для удобства чтения */
     margin-top: 24px;
    /* width: 450px;      ширина блока описания о себе, мі не задаем, чтобы на разных устройствах контент открывался всем текстом*/
 }
